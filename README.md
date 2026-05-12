@@ -127,6 +127,7 @@ This repository includes practical labs and exercises such as:
 cloud-engineering-journey/
 │── README.md
 │── linux/
+     linux-journey/
 │── networking/
 │── bash/
 │── git-github/
