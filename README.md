@@ -29,7 +29,7 @@ My goals for this journey are:
 - Learn Bash scripting for automation
 - Understand Git & GitHub workflows
 - Learn cloud computing fundamentals
-- Master AWS / Azure / Google Cloud platforms
+- Master AWS 
 - Learn Infrastructure as Code (Terraform)
 - Learn Docker & Kubernetes
 - Understand DevOps culture and CI/CD pipelines
